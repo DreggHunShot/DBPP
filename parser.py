@@ -6,6 +6,8 @@ Written by: Taro
 Version: 1.0
 
 '''
+# TODO
+# Make it so you can search after the @ too
 
 import argparse
 import sys
